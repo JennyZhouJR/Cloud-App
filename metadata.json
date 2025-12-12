@@ -1,0 +1,7 @@
+{
+  "name": "Colored-Pencil Dreamscape",
+  "description": "A real-time interactive webcam experience turning you into a colored-pencil illustration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
